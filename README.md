@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a fulfillment of the "Recipes" project on The Odin Project. I included my personal recipes to add uniqueness and personality. Most of it serves as a refresher for my first- and second-year college courses on HTML. I really liked this part of the curriculum because it guides you while letting you figure things out on your own at the same time. It feels like having training wheels for support. I am proud of myself for building this using only the material taught before this project, without relying on AI for coding at all.
